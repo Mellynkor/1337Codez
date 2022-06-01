@@ -1,0 +1,8 @@
+C:\Users\mcsap\source\repos\RunningSumLC\RunningSumLC\bin\Debug\RunningSumLC.exe.config
+C:\Users\mcsap\source\repos\RunningSumLC\RunningSumLC\bin\Debug\RunningSumLC.exe
+C:\Users\mcsap\source\repos\RunningSumLC\RunningSumLC\bin\Debug\RunningSumLC.pdb
+C:\Users\mcsap\source\repos\RunningSumLC\RunningSumLC\obj\Debug\RunningSumLC.csproj.AssemblyReference.cache
+C:\Users\mcsap\source\repos\RunningSumLC\RunningSumLC\obj\Debug\RunningSumLC.csproj.SuggestedBindingRedirects.cache
+C:\Users\mcsap\source\repos\RunningSumLC\RunningSumLC\obj\Debug\RunningSumLC.csproj.CoreCompileInputs.cache
+C:\Users\mcsap\source\repos\RunningSumLC\RunningSumLC\obj\Debug\RunningSumLC.exe
+C:\Users\mcsap\source\repos\RunningSumLC\RunningSumLC\obj\Debug\RunningSumLC.pdb
