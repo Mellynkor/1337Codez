@@ -1,0 +1,8 @@
+C:\Users\mcsap\source\repos\NumberOf1Bits\NumberOf1Bits\bin\Debug\NumberOf1Bits.exe.config
+C:\Users\mcsap\source\repos\NumberOf1Bits\NumberOf1Bits\bin\Debug\NumberOf1Bits.exe
+C:\Users\mcsap\source\repos\NumberOf1Bits\NumberOf1Bits\bin\Debug\NumberOf1Bits.pdb
+C:\Users\mcsap\source\repos\NumberOf1Bits\NumberOf1Bits\obj\Debug\NumberOf1Bits.csproj.AssemblyReference.cache
+C:\Users\mcsap\source\repos\NumberOf1Bits\NumberOf1Bits\obj\Debug\NumberOf1Bits.csproj.SuggestedBindingRedirects.cache
+C:\Users\mcsap\source\repos\NumberOf1Bits\NumberOf1Bits\obj\Debug\NumberOf1Bits.csproj.CoreCompileInputs.cache
+C:\Users\mcsap\source\repos\NumberOf1Bits\NumberOf1Bits\obj\Debug\NumberOf1Bits.exe
+C:\Users\mcsap\source\repos\NumberOf1Bits\NumberOf1Bits\obj\Debug\NumberOf1Bits.pdb
