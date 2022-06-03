@@ -1,0 +1,8 @@
+C:\Users\mcsap\source\repos\RobotOrigin\RobotOrigin\bin\Debug\RobotOrigin.exe.config
+C:\Users\mcsap\source\repos\RobotOrigin\RobotOrigin\bin\Debug\RobotOrigin.exe
+C:\Users\mcsap\source\repos\RobotOrigin\RobotOrigin\bin\Debug\RobotOrigin.pdb
+C:\Users\mcsap\source\repos\RobotOrigin\RobotOrigin\obj\Debug\RobotOrigin.csproj.AssemblyReference.cache
+C:\Users\mcsap\source\repos\RobotOrigin\RobotOrigin\obj\Debug\RobotOrigin.csproj.SuggestedBindingRedirects.cache
+C:\Users\mcsap\source\repos\RobotOrigin\RobotOrigin\obj\Debug\RobotOrigin.csproj.CoreCompileInputs.cache
+C:\Users\mcsap\source\repos\RobotOrigin\RobotOrigin\obj\Debug\RobotOrigin.exe
+C:\Users\mcsap\source\repos\RobotOrigin\RobotOrigin\obj\Debug\RobotOrigin.pdb
