@@ -1,0 +1,25 @@
+package main
+
+func fibonacci(N int) {
+
+	var fibarray = make([]int, N)
+	fibarray[0] = 0
+	fibarray[1] = 1
+
+	for i := 0; i < N; i++ {
+
+		fibarray[i] = i
+
+		if i > 1 {
+			fibarray[i] = fibarray[i-2] + fibarray[i-1]
+		}
+
+		print(fibarray[i], ",")
+
+	}
+}
+
+func main() {
+
+	fibonacci(10)
+}
