@@ -1,0 +1,28 @@
+public class Solution
+{
+    public bool IsValid(string s)
+    {
+        Stack<char> stack = new Stack<char>();
+public class Solution
+{
+    public int SearchInsert(int[] nums, int target)
+    {
+        var index = 0;
+        if (nums[0]>= target)
+        {
+            return 0;
+        }
+        
+        int i;
+        
+        for(i = 1; i < nums.Length; i++)
+        {
+            if(nums[i] >= target)
+            {
+                return i;
+            }
+        }
+            
+        return i;
+    }
+}
