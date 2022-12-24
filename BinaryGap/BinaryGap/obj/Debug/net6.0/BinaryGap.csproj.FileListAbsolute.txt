@@ -1,0 +1,15 @@
+C:\Users\mcsap\source\repos\BinaryGap\BinaryGap\obj\Debug\net6.0\BinaryGap.csproj.AssemblyReference.cache
+C:\Users\mcsap\source\repos\BinaryGap\BinaryGap\obj\Debug\net6.0\BinaryGap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcsap\source\repos\BinaryGap\BinaryGap\obj\Debug\net6.0\BinaryGap.AssemblyInfoInputs.cache
+C:\Users\mcsap\source\repos\BinaryGap\BinaryGap\obj\Debug\net6.0\BinaryGap.AssemblyInfo.cs
+C:\Users\mcsap\source\repos\BinaryGap\BinaryGap\obj\Debug\net6.0\BinaryGap.csproj.CoreCompileInputs.cache
+C:\Users\mcsap\source\repos\BinaryGap\BinaryGap\bin\Debug\net6.0\BinaryGap.exe
+C:\Users\mcsap\source\repos\BinaryGap\BinaryGap\bin\Debug\net6.0\BinaryGap.deps.json
+C:\Users\mcsap\source\repos\BinaryGap\BinaryGap\bin\Debug\net6.0\BinaryGap.runtimeconfig.json
+C:\Users\mcsap\source\repos\BinaryGap\BinaryGap\bin\Debug\net6.0\BinaryGap.dll
+C:\Users\mcsap\source\repos\BinaryGap\BinaryGap\bin\Debug\net6.0\BinaryGap.pdb
+C:\Users\mcsap\source\repos\BinaryGap\BinaryGap\obj\Debug\net6.0\BinaryGap.dll
+C:\Users\mcsap\source\repos\BinaryGap\BinaryGap\obj\Debug\net6.0\refint\BinaryGap.dll
+C:\Users\mcsap\source\repos\BinaryGap\BinaryGap\obj\Debug\net6.0\BinaryGap.pdb
+C:\Users\mcsap\source\repos\BinaryGap\BinaryGap\obj\Debug\net6.0\BinaryGap.genruntimeconfig.cache
+C:\Users\mcsap\source\repos\BinaryGap\BinaryGap\obj\Debug\net6.0\ref\BinaryGap.dll
