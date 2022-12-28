@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mcsap\\source\\repos\\BinaryGap\\BinaryGap\\BinaryGap.csproj",
+      "projectUniqueName": "C:\\Users\\mcsap\\Documents\\GitHub\\1337Codez\\BinaryGap\\BinaryGap\\BinaryGap.csproj",
       "projectName": "BinaryGap",
-      "projectPath": "C:\\Users\\mcsap\\source\\repos\\BinaryGap\\BinaryGap\\BinaryGap.csproj",
+      "projectPath": "C:\\Users\\mcsap\\Documents\\GitHub\\1337Codez\\BinaryGap\\BinaryGap\\BinaryGap.csproj",
       "packagesPath": "C:\\Users\\mcsap\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mcsap\\source\\repos\\BinaryGap\\BinaryGap\\obj\\",
+      "outputPath": "C:\\Users\\mcsap\\Documents\\GitHub\\1337Codez\\BinaryGap\\BinaryGap\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+C:\Users\mcsap\source\repos\HardPQ\HardPQ\obj\Debug\net6.0\HardPQ.csproj.AssemblyReference.cache
+C:\Users\mcsap\source\repos\HardPQ\HardPQ\obj\Debug\net6.0\HardPQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcsap\source\repos\HardPQ\HardPQ\obj\Debug\net6.0\HardPQ.AssemblyInfoInputs.cache
+C:\Users\mcsap\source\repos\HardPQ\HardPQ\obj\Debug\net6.0\HardPQ.AssemblyInfo.cs
+C:\Users\mcsap\source\repos\HardPQ\HardPQ\obj\Debug\net6.0\HardPQ.csproj.CoreCompileInputs.cache
+C:\Users\mcsap\source\repos\HardPQ\HardPQ\bin\Debug\net6.0\HardPQ.exe
+C:\Users\mcsap\source\repos\HardPQ\HardPQ\bin\Debug\net6.0\HardPQ.deps.json
+C:\Users\mcsap\source\repos\HardPQ\HardPQ\bin\Debug\net6.0\HardPQ.runtimeconfig.json
+C:\Users\mcsap\source\repos\HardPQ\HardPQ\bin\Debug\net6.0\HardPQ.dll
+C:\Users\mcsap\source\repos\HardPQ\HardPQ\bin\Debug\net6.0\HardPQ.pdb
+C:\Users\mcsap\source\repos\HardPQ\HardPQ\obj\Debug\net6.0\HardPQ.dll
+C:\Users\mcsap\source\repos\HardPQ\HardPQ\obj\Debug\net6.0\refint\HardPQ.dll
+C:\Users\mcsap\source\repos\HardPQ\HardPQ\obj\Debug\net6.0\HardPQ.pdb
+C:\Users\mcsap\source\repos\HardPQ\HardPQ\obj\Debug\net6.0\HardPQ.genruntimeconfig.cache
+C:\Users\mcsap\source\repos\HardPQ\HardPQ\obj\Debug\net6.0\ref\HardPQ.dll
